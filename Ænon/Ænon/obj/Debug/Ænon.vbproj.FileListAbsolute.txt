@@ -1,0 +1,24 @@
+C:\Users\Skellytone\source\repos\Ænon\Ænon\bin\Debug\Ænon.exe.config
+C:\Users\Skellytone\source\repos\Ænon\Ænon\bin\Debug\Ænon.exe
+C:\Users\Skellytone\source\repos\Ænon\Ænon\bin\Debug\Ænon.pdb
+C:\Users\Skellytone\source\repos\Ænon\Ænon\bin\Debug\Ænon.xml
+C:\Users\Skellytone\source\repos\Ænon\Ænon\obj\Debug\Ænon.vbprojResolveAssemblyReference.cache
+C:\Users\Skellytone\source\repos\Ænon\Ænon\obj\Debug\Ænon.Form1.resources
+C:\Users\Skellytone\source\repos\Ænon\Ænon\obj\Debug\Ænon.Resources.resources
+C:\Users\Skellytone\source\repos\Ænon\Ænon\obj\Debug\Ænon.vbproj.GenerateResource.Cache
+C:\Users\Skellytone\source\repos\Ænon\Ænon\obj\Debug\Ænon.vbproj.CoreCompileInputs.cache
+C:\Users\Skellytone\source\repos\Ænon\Ænon\obj\Debug\Ænon.exe
+C:\Users\Skellytone\source\repos\Ænon\Ænon\obj\Debug\Ænon.xml
+C:\Users\Skellytone\source\repos\Ænon\Ænon\obj\Debug\Ænon.pdb
+C:\Programming projects\Ænon\Ænon\bin\Debug\Ænon.exe.config
+C:\Programming projects\Ænon\Ænon\bin\Debug\Ænon.exe
+C:\Programming projects\Ænon\Ænon\bin\Debug\Ænon.pdb
+C:\Programming projects\Ænon\Ænon\bin\Debug\Ænon.xml
+C:\Programming projects\Ænon\Ænon\obj\Debug\Ænon.vbprojResolveAssemblyReference.cache
+C:\Programming projects\Ænon\Ænon\obj\Debug\Ænon.Resources.resources
+C:\Programming projects\Ænon\Ænon\obj\Debug\Ænon.vbproj.GenerateResource.Cache
+C:\Programming projects\Ænon\Ænon\obj\Debug\Ænon.vbproj.CoreCompileInputs.cache
+C:\Programming projects\Ænon\Ænon\obj\Debug\Ænon.exe
+C:\Programming projects\Ænon\Ænon\obj\Debug\Ænon.xml
+C:\Programming projects\Ænon\Ænon\obj\Debug\Ænon.pdb
+C:\Programming projects\Ænon\Ænon\obj\Debug\Ænon.MainApp.resources
